@@ -21,7 +21,7 @@ PA3AD tackles the scarcity of real anomalies and distribution shifts through two
 1. **Physics-Inspired Pseudo-Anomaly Generation**: A novel module that creates diverse, physically plausible pseudo-anomalous point clouds from normal data via multi-physics modeling.
 2. **Prototype Feature Guidance**: We incorporate momentum-updated prototypes and a difference-aware fusion block via a weight-sharing mechanism. This effectively captures stable normal representations and their discrepancies with pseudo-anomalies.
 
-*(Please upload your architecture diagram to the repository and update the path below)*
+
 <p align="center">
   <img src="assets/architecture.png" alt="PA3AD Architecture" width="800"/>
 </p>
