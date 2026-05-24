@@ -107,6 +107,21 @@ python PA3AD_eval.py --dataset AnomalyShapeNet --category ashtray0 --backbone_ar
 python PA3AD_eval.py --dataset Real3D --category airplane --backbone_arch MinkUNet34TransformerLocalGlobal --logpath ./weights/Real3D/ --checkpoint_name airplane_model.pth --use_shared_backbone
 ```
 
+## 📦 Pretrained Weights
+
+| Category | Download |
+|----------|----------|
+| ashtray0 | [Google Drive](https://drive.google.com/file/d/1sCk8o3XTS7_NjY_OURTr7XerZdq6y6Gs/view?usp=drive_link) |
+
+Download the weights and place them in the corresponding directory:
+```
+weights/
+├── AnomalyShapeNet/
+│   └── ashtray0_model.pth
+└── Real3D/
+    └── ...
+```
+
 ## 📄 Citation
 
 If you find this work useful, please cite:
