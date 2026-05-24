@@ -124,15 +124,6 @@ weights/
 
 ## 📄 Citation
 
-If you find this work useful, please cite:
-```bibtex
-@article{pa3ad2026,
-  title={Physics-inspired Pseudo Anomaly Generation and Prototype Feature Guidance for 3D Anomaly Detection},
-  author={},
-  journal={Pattern Recognition},
-  year={2026}
-}
-```
 
 ## 📜 License
 
