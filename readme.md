@@ -165,14 +165,23 @@ weights/
 
 ## 📄 Citation
 @article{NING2026114391,
+
 title = {Physics-inspired pseudo anomaly generation and prototype feature guidance for 3D anomaly detection},
+
 journal = {Pattern Recognition},
+
 pages = {114391},
+
 year = {2026},
+
 issn = {0031-3203},
+
 doi = {https://doi.org/10.1016/j.patcog.2026.114391},
+
 url = {https://www.sciencedirect.com/science/article/pii/S0031320326013567},
+
 author = {Jian Ning and Qin Zou and Linchun Wu and Yuanhao Yue and Kunmo Li and Shoubin Chen and Zhongyuan Wang}
+
 }
 
 ## 📜 License
