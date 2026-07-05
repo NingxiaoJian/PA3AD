@@ -9,6 +9,8 @@
 
 Official repository for the paper **"Physics-inspired Pseudo Anomaly Generation and Prototype Feature Guidance for 3D Anomaly Detection"**. 
 
+>  **Note:** This repository is not the final version and is provided for reference only. The code and documentation may be updated in the future.
+
 3D point cloud anomaly detection plays a vital role in industrial manufacturing but faces significant challenges due to the scarcity and high acquisition cost of real anomalous samples. To address the difficulty of learning discriminative features from inherently anomaly-free training data, we propose **PA3AD**.
 
 ## 📢 News
