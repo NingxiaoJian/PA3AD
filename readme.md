@@ -182,8 +182,8 @@ weights/
 We thank the authors of the following works for making their code publicly available. Our implementation is built upon their excellent codebases:
 
 - [UniAD](https://github.com/zhiyuanyou/UniAD)
-- [MC3D-AD](https://github.com/WangKe2662/MC3D-AD)
-- [PO3AD](https://github.com/eveningstarNO1/PO3AD)
+- [MC3D-AD](https://github.com/jiayi-art/MC3D-AD)
+- [PO3AD](https://github.com/yjnanan/PO3AD)
 
 
 ## 📜 License
